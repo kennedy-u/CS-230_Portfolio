@@ -3,7 +3,7 @@ package com.gamingroom;
 /**
 * A class to test a singleton's behavior
 *
-* @author coce@snhu.edu
+* @author kennedy.uzoho@snhu.edu
 */
 public class SingletonTester {
 
