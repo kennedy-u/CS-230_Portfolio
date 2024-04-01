@@ -7,7 +7,7 @@ import java.util.Iterator;
 /**
 * A singleton service for the game engine
 *
-* @author coce@snhu.edu
+* @author kennedy.uzoh@snhu.edu
 */
 public class GameService {
 
